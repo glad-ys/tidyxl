@@ -10,7 +10,7 @@ The sample data is named "sample_data.xlsx". This file contains a summary of dat
 
 Each part contains several files:
 1. R code 
-2. Reports in HTML and PDF formats
+2. Reports in PDF format
 3. Output file in csv that resulted from running the R code
 
 Let me know if you have any questions or found issues with the files! 
