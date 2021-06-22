@@ -29,7 +29,7 @@ identical(test_1a, test_1b)
 
 # * Explore the data (First sheet) ----
 data_1 <- xlsx_cells("sample_data.xlsx", sheets = 1)
-print(data_1 %>% filter(row == 9), width = Inf)
+print(data_1 %>% filter(row == 1), width = Inf)
 
 names(data_1)
 
