@@ -1,5 +1,5 @@
 # tidyxl
-This repo is to accompany my blog post at https://omicsbialystok.wordpress.com/. I am showing you how I use tidyxl and unpivotr to clean Excel files in R.
+This repo is to accompany my blog post at https://omicsbialystok.wordpress.com/ about how I use tidyxl and unpivotr to clean Excel files in R.
 
 I describe my process in two parts: 
 
@@ -11,7 +11,7 @@ I describe my process in two parts:
     
 2. Part two: cleaning the data and extracting color information (planned: 6 July 2021)
 
-The sample data is named "sample_data.xlsx". This file contains a summary of data issues I have been handling lately. 
+The sample data is named "sample_data.xlsx". This file contains a summary of data issues I have to fix lately. 
 
 Each part contains several files:
 1. R code 
