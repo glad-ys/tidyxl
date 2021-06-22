@@ -1,2 +1,2 @@
-# tidyxl-case_use
-Here is a sample code of how I clean Excel files
+# tidyxl
+This is how I use tidyxl and unpivotr to clean Excel files
